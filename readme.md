@@ -31,3 +31,13 @@ A mão direita está levantada em forma de aceno, com o restante do corpo ainda 
 O fundo da moldura é branco, e a parte inferior exibe os ícones clássicos do Instagram (curtir, comentar, compartilhar, salvar, home, rees), rompt
 Estilo da arte: visual limpo, moderno, com acabamento realista cartoon, qualidade
 Pixar.
+
+
+-----
+
+@TiktoKIA:PROMPT 🚨
+Crie um retrato com técnica mista, ousado e expressivo, usando o rosto da minha foto como base. O retrato deve ser em primeiro plano, com pose frontal e inclinação do queixo ligeiramente para cima, para transmitir confiança, atitude e intensidade artística. A estética geral deve refletir um estilo ousado, desenhado à mão, que une grafite e jornalismo urbano, misturando linhas caóticas de traços a lápis, desenhos técnicos inspirados em vetores e pinceladas.
+
+----
+
+@PROMPTER DE ELITE:"Hyper-realistic 8K portrait of a pilot inside the cockpit of a military fighter jet during the golden hour of sunset. The man (pinned photo) has short, spiky hair, a clean-shaven beard, and a well-defined mustache. He wears sunglasses that reflect the orange sky. He wears a full flight uniform with a tactical vest and seat belts, as well as a military headset. On his right shoulder is the Brazilian flag and on his left chest, the (P.N.) brand. The dramatic lighting highlights the details of the suit, the metallic shine of the cockpit, and the intensity of his expression. In the background, another jet crosses the golden sky. Cinematic, epic, and extremely realistic atmosphere.","size":"1024x1792","n":1.
