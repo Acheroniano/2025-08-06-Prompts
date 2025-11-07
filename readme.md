@@ -45,3 +45,19 @@ Crie um retrato com técnica mista, ousado e expressivo, usando o rosto da minha
 ----
 
 Arte em estilo 3D/Pixar ultra-realista e cinematográfica em resolução 8K. Um homem (foto fixada) com expressão exagerada de susto dirige um Fusca clássico Herbie branco, número 53 estampado no capô, com listras vermelha e azul passando pelo centro do carro. O carro possui faróis brilhantes, para-choque cromado e detalhe sorridente na grade frontal, transmitindo personalidade animada. Ao lado do homem, no banco do passageiro, está um filhote de husky siberiano, feliz, com a língua de fora e expressão animada. Atrás, carros de polícia estilizados com luzes vermelhas e azuis piscando perseguem em alta velocidade. O cenário é uma estrada ensolarada ladeada por palmeiras tropicais sob um céu azul vibrante com poucas nuvens fofas. O estilo mantém traços caricatos, vibrantes e altamente detalhados, com foco em iluminação suave, texturas realistas e atmosfera divertida digna de um pôster de animação Pixar.
+
+----
+
+Retrato hiperrealista de un hombre casi en completa oscuridad, solo un rayo delgado de luz iluminando sus ojos, ojos color avellana vibrantes y realistas, el resto de la imagen suavemente desaturada casi en blanco y negro, expresión nostálgica, sombras profundas y textura cinematográfica —ar 3:4 —v 7 —style raw —q 2 —s 360
+⸻
+El Color que Permanece (Mujer)
+Retrato hiperrealista de una mujer con luz mínima alrededor, un pequeño haz cálido dirigido únicamente a sus ojos, ojos verde dorado intensos y vivos, piel y fondo en tonos desaturados cercanos al blanco y negro, atmósfera emocional delicada, iluminación fine art —ar 3:4 —v 7 —style raw —q 2 —s 350
+⸻
+Ojos de Noche Callada (Hombre)
+Retrato hiperrealista de un hombre con luz tenue y sombras profundas, un rayo diagonal iluminando sus ojos azul hielo, el resto de la escena en escala de grises suave, expresión introspectiva, profundidad cinematográfica, realismo detallado —ar 3:4 —v 7 —style raw —q 2 —s 380
+⸻
+Eco Suave (Mujer)
+Retrato hiperrealista de una mujer en penumbra, rayo de luz difuso cruzando horizontalmente sus ojos, ojos ámbar y verde vibrantes, rostro y fondo desaturados en tonos suaves, expresión nostálgica, estética cinematográfica fine art —ar 3:4 —v 7 —style raw —q 2 —s 340
+⸻
+Luz de la Memoria (Hombre)
+Retrato hiperrealista de un hombre en habitación oscura, haz estrecho de luz tocando solo sus ojos, ojos marrón cálido con destellos dorados intensos, el resto casi blanco y negro con grano suave, expresión vulnerable y tranquila, iluminación cinematográfica —ar 3:4 —v 7 —style raw —q 2 —s 370
